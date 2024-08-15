@@ -1,4 +1,4 @@
-# in_out_app
+# Digi_Entry
 
 A new Flutter project.
 
